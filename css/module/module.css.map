@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,MAAO;EACN,gBAAgB,ECDD,OAAO;EDEtB,KAAK,ECDO,OAAO;;ADIpB,UAAU;EACT,UAAU,EAAE,2BAA2B",
-"sources": ["../scss/module/_header.scss","../scss/base/variable.scss"],
-"names": [],
-"file": "module.css"
-}

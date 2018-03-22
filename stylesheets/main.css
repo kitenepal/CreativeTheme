@@ -1,0 +1,8 @@
+/* line 1, ../sass/_navbar.scss */
+.nav {
+  background-color: #434957 !important;
+}
+/* line 3, ../sass/_navbar.scss */
+.nav a {
+  color: white !important;
+}
